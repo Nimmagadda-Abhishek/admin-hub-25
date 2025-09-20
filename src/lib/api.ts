@@ -1,4 +1,4 @@
-const BASE_URL = "https://apinav.lytortech.com/";
+const BASE_URL = "https://apinav.lytortech.com";
 
 const defaultHeaders = {
   "ngrok-skip-browser-warning": "true",
